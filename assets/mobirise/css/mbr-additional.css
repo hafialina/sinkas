@@ -1822,13 +1822,16 @@ body {
   color: #7f1933;
 }
 .cid-qMuUuGHxeD .mbr-section-subtitle {
-  color: #7f1933;
+  color: #ffffff;
 }
 .cid-qMuUuGHxeD .mbr-author-name {
   color: #7f1933;
 }
 .cid-qMuUuGHxeD .mbr-text {
   color: #767676;
+}
+.cid-qMuUuGHxeD .mbr-author-name SPAN {
+  color: #b91522;
 }
 .cid-qN3Mu7f1uC {
   padding-top: 90px;
@@ -2445,6 +2448,9 @@ body {
 }
 .cid-qN7MnYPc4n .mbr-text {
   color: #767676;
+}
+.cid-qN7MnYPc4n SPAN {
+  color: #333333;
 }
 .cid-qN7Mo1zvxL {
   padding-top: 15px;
