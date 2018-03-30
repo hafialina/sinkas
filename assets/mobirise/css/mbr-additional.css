@@ -2452,39 +2452,39 @@ body {
 #custom-html-g div {
   background-color: #767676;
 }
-.cid-qN7Mo2WXov {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+.cid-qNNOzGWhNJ {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background: linear-gradient(#767676, #ffffff);
 }
 @media (max-width: 767px) {
-  .cid-qN7Mo2WXov .media-wrap {
+  .cid-qNNOzGWhNJ .media-wrap {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qN7Mo2WXov .media-wrap .mbr-iconfont-logo {
+.cid-qNNOzGWhNJ .media-wrap .mbr-iconfont-logo {
   font-size: 7rem;
   color: #f36;
 }
-.cid-qN7Mo2WXov .media-wrap img {
+.cid-qNNOzGWhNJ .media-wrap img {
   height: 6rem;
 }
-.cid-qN7Mo2WXov .mbr-text {
+.cid-qNNOzGWhNJ .mbr-text {
   color: #767676;
 }
 @media (max-width: 767px) {
-  .cid-qN7Mo2WXov .footer-lower .copyright {
+  .cid-qNNOzGWhNJ .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qN7Mo2WXov .footer-lower hr {
+.cid-qNNOzGWhNJ .footer-lower hr {
   margin: 1rem 0;
   border-color: #000;
   opacity: .05;
 }
-.cid-qN7Mo2WXov .footer-lower .social-list {
+.cid-qNNOzGWhNJ .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2493,25 +2493,29 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qN7Mo2WXov .footer-lower .social-list .mbr-iconfont-social {
+.cid-qNNOzGWhNJ .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #232323;
 }
-.cid-qN7Mo2WXov .footer-lower .social-list .soc-item {
+.cid-qNNOzGWhNJ .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qN7Mo2WXov .footer-lower .social-list a {
+.cid-qNNOzGWhNJ .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qN7Mo2WXov .footer-lower .social-list a:hover {
+.cid-qNNOzGWhNJ .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qN7Mo2WXov .footer-lower .social-list {
+  .cid-qNNOzGWhNJ .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qNNOzGWhNJ .links {
+  text-align: left;
+  color: #ffffff;
 }
