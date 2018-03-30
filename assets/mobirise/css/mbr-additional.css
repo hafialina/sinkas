@@ -51,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'Courgette', handwriting;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -656,13 +656,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Courgette', handwriting;
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 .form-control,
 .form-control:focus {
@@ -1833,65 +1833,32 @@ body {
 .cid-qMuUuGHxeD .mbr-author-name SPAN {
   color: #b91522;
 }
-.cid-qN3Mu7f1uC {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
+.cid-qNNJZimgGy {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
-.cid-qN3Mu7f1uC h2 {
-  text-align: left;
+.cid-qNNJZimgGy .title {
+  margin-bottom: 2rem;
 }
-.cid-qN3Mu7f1uC h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qN3Mu7f1uC p {
+.cid-qNNJZimgGy .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
 }
-.cid-qN3Mu7f1uC .aside-content {
-  flex-basis: 100%;
+.cid-qNNJZimgGy a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
 }
-.cid-qN3Mu7f1uC .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
+.cid-qNNJZimgGy a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
 }
-.cid-qN3Mu7f1uC .media {
-  margin: initial;
-  align-items: center;
+.cid-qNNJZimgGy .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
 }
-.cid-qN3Mu7f1uC .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-qN3Mu7f1uC .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-qN3Mu7f1uC .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-qN3Mu7f1uC .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qN3Mu7f1uC .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-qN3Mu7f1uC .card-img span {
-    font-size: 40px !important;
-  }
+.cid-qNNJZimgGy .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-qMvkc4vBnP {
   padding-top: 15px;
