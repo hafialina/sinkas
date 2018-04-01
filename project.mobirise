@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sinkas",
-    "currentPage": "page2.html",
+    "currentPage": "Test.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -720,7 +720,7 @@
         }
       ]
     },
-    "Gästebuch": {
+    "Gästebuch.html": {
       "settings": {
         "title": "Gästebuch",
         "meta_descr": "",
@@ -1357,7 +1357,7 @@
         }
       ]
     },
-    "page2.html": {
+    "Test.html": {
       "settings": {
         "title": "Test",
         "meta_descr": "",
