@@ -1,7 +1,18 @@
-/*!
- * Mobirise v4 theme (https://mobirise.com/)
- * Copyright 2017 Mobirise
+.engine {
+	position: absolute;
+	text-indent: -2400px;
+	text-align: center;
+	padding: 0;
+	top: 0;
+	left: -2400px;
+}/*!
+ * Mobirise v4 theme (https://mobirise.com/)
+ * Copyright 2017 Mobirise
  */
+div, span, h1, h2, h3, h4, h5, h6, p, blockquote, a, ol, ul, li,
+figcaption, textarea, input, .display-1, .display-2 {
+  font: inherit; }
+
 section {
   background-color: #eeeeee; }
 
@@ -100,6 +111,7 @@ section {
 @media (max-width: 767px) {
   .align-left, .align-center, .align-right, .mbr-section-btn, .mbr-section-title {
     text-align: center; } }
+
 /*! Font-weight  */
 .mbr-light {
   font-weight: 300; }
@@ -174,6 +186,7 @@ section {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap; } }
+
 figure {
   overflow: hidden; }
 
@@ -211,12 +224,11 @@ figure[mbr-media-size] {
 @media (max-width: 991px) {
   .media-size-item {
     width: auto !important; }
-
   .media {
     width: auto; }
-
   .mbr-figure {
     width: 100% !important; } }
+
 /*! Buttons */
 .mbr-section-btn {
   margin-left: -.25rem;
@@ -359,6 +371,7 @@ nav .mbr-section-btn {
   100% {
     transform: translateY(0px);
     -webkit-transform: translateY(0px); } }
+
 @-webkit-keyframes arrowdown {
   0% {
     transform: translateY(0px);
@@ -369,12 +382,14 @@ nav .mbr-section-btn {
   100% {
     transform: translateY(0px);
     -webkit-transform: translateY(0px); } }
+
 @media (max-width: 500px) {
   .mbr-arrow-up {
     left: 50%;
     right: auto;
     transform: translateX(-50%) rotate(180deg);
     -webkit-transform: translateX(-50%) rotate(180deg); } }
+
 /*Gradients animation*/
 @keyframes gradient-animation {
   from {
@@ -383,6 +398,7 @@ nav .mbr-section-btn {
   to {
     background-position: 100% 0%;
     animation-timing-function: ease-in-out; } }
+
 @-webkit-keyframes gradient-animation {
   from {
     background-position: 0% 100%;
@@ -390,6 +406,7 @@ nav .mbr-section-btn {
   to {
     background-position: 100% 0%;
     animation-timing-function: ease-in-out; } }
+
 .bg-gradient {
   background-size: 200% 200%;
   animation: gradient-animation 5s infinite alternate;
@@ -404,23 +421,15 @@ nav .mbr-section-btn {
     display: -webkit-flex; }
   .menu .navbar-brand .navbar-logo img {
     display: -webkit-flex; }
+
 @media (min-width: 768px) and (max-width: 991px) {
   .menu .navbar-toggleable-sm .navbar-nav {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox; } }
+
 @media (min-width: 992px) {
   .menu .navbar-nav.nav-dropdown {
     display: -webkit-flex; }
   .menu .navbar-toggleable-sm .navbar-collapse {
     display: -webkit-flex !important; } }
-
-/*# sourceMappingURL=style.css.map */
-.engine {
-	position: absolute;
-	text-indent: -2400px;
-	text-align: center;
-	padding: 0;
-	top: 0;
-	left: -2400px;
-}
