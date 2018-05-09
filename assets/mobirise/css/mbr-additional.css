@@ -1313,10 +1313,13 @@ body {
 .cid-qQkLw2QbZi .list-item-title {
   color: #ffffff;
 }
+.cid-qQkLw2QbZi .list-item-text {
+  color: #ffffff;
+}
 .cid-qRuv3Zee0W {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #efefef;
+  background-color: #f8f5f5;
 }
 .cid-qRumoT3Cw3 .google-map {
   height: 25rem;
@@ -1403,8 +1406,8 @@ body {
 }
 .cid-qQkLSdV514 {
   padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #a2a2a2;
+  padding-bottom: 15px;
+  background-color: #000000;
 }
 .cid-qQkLSdV514 p {
   text-align: center;
