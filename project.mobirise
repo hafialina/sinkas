@@ -40,7 +40,7 @@
     "uniqCompNum": 45,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/dmlogo.gif",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
