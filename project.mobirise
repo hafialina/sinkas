@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Domenico Mancusi Coiffeur",
-    "currentPage": "index.html",
+    "currentPage": "Mancusi-Datenschutz.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -42,7 +42,7 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dmlogo.gif",
     "noImageResize": "",
-    "cookiesAlert": "Ich verwende teilweise Cookies. Wenn Sie auf meinen Webseiten navigieren, stimmen Sie der Erfassung von Informationen durch Cookies auf meinen Webseiten zu. Bitte lesen Sie meine <a href='Impressum.html'>Datenschutzerklärung\r\n</a>.",
+    "cookiesAlert": "Ich verwende teilweise Cookies. Wenn Sie auf meinen Webseiten navigieren, stimmen Sie der Erfassung von Informationen durch Cookies auf meinen Webseiten zu. Bitte lesen Sie meine <a href='Mancusi-Datenschutz.html'>Datenschutzerklärung\r\n</a>.",
     "gdpr": "",
     "google-analytics": "",
     "siteUrl": "",
