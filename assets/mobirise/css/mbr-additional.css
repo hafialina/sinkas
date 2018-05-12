@@ -1055,7 +1055,7 @@ body {
 }
 .cid-qRx2UQ7P84 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qRx2UQ7P84 a {
@@ -1098,6 +1098,53 @@ body {
   color: #000000;
 }
 .cid-qRx2UQ7P84 P {
+  color: #000000;
+}
+.cid-qROW9w8A7u {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qROW9w8A7u a {
+  color: #232323;
+}
+.cid-qROW9w8A7u a:hover {
+  color: #efefef;
+}
+.cid-qROW9w8A7u h5 {
+  color: #4e6dcc;
+}
+.cid-qROW9w8A7u .card-img {
+  width: 200px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+.cid-qROW9w8A7u .img-icon {
+  width: auto;
+  max-width: 500px;
+  max-height: 500px;
+  left: 0;
+  position: absolute;
+}
+@media (min-width: 992px) {
+  .cid-qROW9w8A7u .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-qROW9w8A7u H5 {
+  color: #555555;
+}
+.cid-qROW9w8A7u .card-title {
+  color: #000000;
+}
+.cid-qROW9w8A7u P {
   color: #000000;
 }
 .cid-qRun4gjDzC {
