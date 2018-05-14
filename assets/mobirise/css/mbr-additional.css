@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Fjalla+One:400);
+@import url(https://fonts.googleapis.com/css?family=Changa:200,300,400,500,600,700,800);
 
 
 
@@ -29,16 +30,16 @@ body {
   font-size: 2.4rem;
 }
 .display-4 {
-  font-family: 'Fjalla One', sans-serif;
-  font-size: 0.875rem;
+  font-family: 'Changa', sans-serif;
+  font-size: 1rem;
 }
 .display-5 {
   font-family: 'Fjalla One', sans-serif;
   font-size: 2rem;
 }
 .display-7 {
-  font-family: 'Fjalla One', sans-serif;
-  font-size: 1.06rem;
+  font-family: 'Changa', sans-serif;
+  font-size: 1.2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -57,9 +58,9 @@ body {
     line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.7rem;
-    font-size: calc( 0.95625rem + (0.875 - 0.95625) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.95625rem + (0.875 - 0.95625) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.6rem;
@@ -704,15 +705,15 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Fjalla One', sans-serif;
-  font-size: 1.06rem;
+  font-family: 'Changa', sans-serif;
+  font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.696rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -823,13 +824,13 @@ pre {
   font-size: 3.84rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.696rem;
+  font-size: 1.92rem;
 }
 .display-7 {
   font-weight: 300;
@@ -1100,6 +1101,9 @@ body {
 .cid-qRx2UQ7P84 P {
   color: #000000;
 }
+.cid-qRx2UQ7P84 .card-title B {
+  color: #a2a2a2;
+}
 .cid-qROW9w8A7u {
   padding-top: 0px;
   padding-bottom: 30px;
@@ -1146,6 +1150,9 @@ body {
 }
 .cid-qROW9w8A7u P {
   color: #000000;
+}
+.cid-qROW9w8A7u .card-title B {
+  color: #a2a2a2;
 }
 .cid-qRun4gjDzC {
   padding-top: 30px;
@@ -1228,9 +1235,9 @@ body {
   color: #a2a2a2;
 }
 .cid-qRODZNZ9eB {
-  padding-top: 0px;
+  padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-qRODZNZ9eB .mbr-text {
   color: #767676;
@@ -1255,56 +1262,13 @@ body {
   color: #efefef;
 }
 .cid-qRODZNZ9eB H2 {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-qRODZNZ9eB .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-qRuqRzXjLg {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qRuqRzXjLg h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-qRuqRzXjLg .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-qRuqRzXjLg .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qRuqRzXjLg .pie_progress__number {
-  text-align: center !important;
-}
-.cid-qRuqRzXjLg .card-title {
-  margin-bottom: 0;
-}
-.cid-qRuqRzXjLg .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-qRuqRzXjLg .gardient-ini {
-  position: absolute;
-}
-.cid-qRuqRzXjLg ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-qRuqRzXjLg .card {
-    -webkit-flex-basis: 50%;
-    flex-basis: 50%;
-  }
-}
-.cid-qRuqRzXjLg H4 {
   color: #000000;
 }
-.cid-qRuqRzXjLg .mbr-section-title B {
-  color: #000000;
+.cid-qRODZNZ9eB B {
+  color: #a2a2a2;
 }
 .cid-qQkLw2QbZi {
   padding-top: 60px;
