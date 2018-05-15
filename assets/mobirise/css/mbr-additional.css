@@ -1167,8 +1167,61 @@ body {
 .cid-qROW9w8A7u .card-title B {
   color: #a2a2a2;
 }
-.cid-qRun4gjDzC {
+.cid-qS7iAJIhcC {
   padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+.cid-qS7iAJIhcC .block-title B {
+  color: #ffffff;
+}
+.cid-qS7iAJIhcC .block-title {
+  color: #ffffff;
+}
+.cid-qS7eNu7S25 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-qS7eNu7S25 .block-title B {
+  color: #ffffff;
+}
+.cid-qS7eNu7S25 .block-title {
+  color: #ffffff;
+}
+.cid-qS7ewiAwUZ {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-qS7ewiAwUZ .mbr-text {
+  color: #ffffff;
+}
+.cid-qS7ewiAwUZ h4 {
+  text-align: center;
+}
+.cid-qS7ewiAwUZ p {
+  text-align: center;
+}
+.cid-qS7ewiAwUZ .card .card-img span {
+  font-size: 40px;
+  padding: 1.5rem;
+  background: #a2a2a2;
+  border: 2px solid #a2a2a2;
+  color: #ffffff;
+  border-radius: 50%;
+  transition: all .3s;
+}
+.cid-qS7ewiAwUZ .card:hover .card-img span {
+  background: none;
+  color: #a2a2a2;
+}
+.cid-qS7ewiAwUZ .card-title,
+.cid-qS7ewiAwUZ .card-img {
+  color: #ffffff;
+}
+.cid-qRun4gjDzC {
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #000000;
 }
