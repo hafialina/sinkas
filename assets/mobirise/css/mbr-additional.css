@@ -1001,7 +1001,7 @@ body {
 }
 .cid-qRx9HlG0nD {
   padding-top: 15px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 .cid-qRx9HlG0nD .card-img {
@@ -1053,6 +1053,17 @@ body {
 }
 .cid-qRx9HlG0nD .days-subtitle {
   color: #000000;
+}
+.cid-qS75av0KfB {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-qS75av0KfB .block-title B {
+  color: #ffffff;
+}
+.cid-qS75av0KfB .block-title {
+  color: #ffffff;
 }
 .cid-qRx2UQ7P84 {
   padding-top: 30px;
