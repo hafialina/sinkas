@@ -35,7 +35,7 @@ body {
 }
 .display-5 {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 .display-7 {
   font-family: 'Changa', sans-serif;
@@ -63,9 +63,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -827,7 +827,7 @@ pre {
   font-size: 1.6rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.88rem;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.92rem;
