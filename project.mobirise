@@ -1042,7 +1042,8 @@
               "color": "#000000"
             },
             ".copyright > p": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -1885,7 +1886,8 @@
               "color": "#000000"
             },
             ".copyright > p": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -2472,7 +2474,8 @@
               "color": "#000000"
             },
             ".copyright > p": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -3057,7 +3060,8 @@
               "color": "#000000"
             },
             ".copyright > p": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -3642,7 +3646,8 @@
               "color": "#000000"
             },
             ".copyright > p": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -4497,7 +4502,8 @@
               "color": "#000000"
             },
             ".copyright > p": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".column-title": {
               "color": "#ffffff",
