@@ -1043,7 +1043,7 @@
             },
             ".copyright > p": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -1887,7 +1887,7 @@
             },
             ".copyright > p": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -2475,7 +2475,7 @@
             },
             ".copyright > p": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -3061,7 +3061,7 @@
             },
             ".copyright > p": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -3647,7 +3647,7 @@
             },
             ".copyright > p": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".column-title": {
               "color": "#ffffff",
@@ -4503,7 +4503,7 @@
             },
             ".copyright > p": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".column-title": {
               "color": "#ffffff",
