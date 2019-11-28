@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BabyBude",
-    "currentPage": "index.html",
+    "currentPage": "BabyBude-Links.html",
     "theme": {
       "name": "businessm4",
       "title": "Business M4",
@@ -1354,7 +1354,7 @@
         }
       ]
     },
-    "page1.html": {
+    "BabyBude-Einkauf.html": {
       "settings": {
         "title": "BabyBude-Einkauf",
         "meta_descr": "",
@@ -2620,7 +2620,7 @@
         }
       ]
     },
-    "page2.html": {
+    "BabyBude-Links.html": {
       "settings": {
         "title": "BabyBude-Links",
         "meta_descr": "",
