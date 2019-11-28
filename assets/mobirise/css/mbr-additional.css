@@ -1833,6 +1833,21 @@ body {
 .cid-rJ2mAkdRkP .plan-title {
   color: #2bdc9d;
 }
+.cid-rJ7hgVAslx {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #2bdc9d, #ff695c);
+}
+.cid-rJ7hgVAslx .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff695c;
+}
+.cid-rJ7hgVAslx .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rJ7hgVAslx H2 {
+  color: #2bdc9d;
+}
 .cid-rJ28xAQ2Wv {
   padding-top: 45px;
   padding-bottom: 30px;
