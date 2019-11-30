@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower:400&display=swap);
 
 
@@ -1558,7 +1558,7 @@ body {
 .cid-rJ6sdmVgPR .card-box {
   border-bottom-left-radius: .25rem;
   border-bottom-right-radius: .25rem;
-  background: #ff695c;
+  background: #2bdc9d;
   padding: 2rem;
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
 }
@@ -1587,157 +1587,12 @@ body {
 .cid-rJ6sdmVgPR .mbr-section-btn {
   color: #ffffff;
 }
-.cid-rJ1UVodCNP {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background: linear-gradient(45deg, #ff695c, #ff695c);
-}
-.cid-rJ1UVodCNP .mbr-section-subtitle {
-  color: #8d97ad;
-}
-.cid-rJ1UVodCNP .plan-body .btn-bgr {
-  z-index: 0;
-}
-.cid-rJ1UVodCNP .list-group-item {
-  padding: .5rem 3.25rem;
-  background: transparent;
-}
-.cid-rJ1UVodCNP .price-term {
-  margin-left: -5px;
-}
-.cid-rJ1UVodCNP .pt2 {
-  padding-top: 2rem;
-}
-.cid-rJ1UVodCNP .plan-favorite {
-  background-color: #2bdc9d;
-  width: 40%;
-  border-radius: .25rem;
-  z-index: 1;
-  position: absolute;
-  left: 50%;
-  top: 0;
-  margin-top: -26px;
-  margin-left: -20%;
-}
-.cid-rJ1UVodCNP .plan-descr {
-  color: #444444;
-}
-.cid-rJ1UVodCNP .plan-price {
-  margin-top: 2rem;
-  color: #2bdc9d;
-}
-.cid-rJ1UVodCNP .plan-header {
-  border-radius: .25rem .25rem 0 0;
-  overflow: hidden;
-  padding-right: 2rem;
-  padding-left: 2rem;
-}
-.cid-rJ1UVodCNP .plan-body {
-  border-radius: 0 0 .25rem .25rem;
-  padding-right: 2rem;
-  padding-left: 2rem;
-}
-.cid-rJ1UVodCNP .plan-card {
-  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-}
-.cid-rJ1UVodCNP .plan {
-  position: relative;
-  max-width: 330px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #8d97ad;
-}
-.cid-rJ1UVodCNP .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-}
-.cid-rJ1UVodCNP .plan .list-group-item:last-child {
-  border-radius: 8px;
-}
-.cid-rJ1UVodCNP .plan-header,
-.cid-rJ1UVodCNP .plan-body {
-  background-color: #ffffff;
-}
-.cid-rJ1UVodCNP .price-figure {
-  font-weight: 300;
-  color: #232323;
-}
-.cid-rJ1UVodCNP .price-value {
-  font-weight: 300;
-  vertical-align: top;
-  line-height: 1;
-  margin-right: -5px;
-}
-@media (max-width: 992px) {
-  .cid-rJ1UVodCNP .plan {
-    margin-bottom: 3rem !important;
-  }
-}
-@media (max-width: 550px) {
-  .cid-rJ1UVodCNP .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-rJ1UVodCNP .plan-title {
-  color: #2bdc9d;
-}
-.cid-rJ2mwhVW8i {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ff695c;
-}
-.cid-rJ2mwhVW8i .mbr-overlay {
-  background: #efefef;
-}
-.cid-rJ2mwhVW8i .card {
-  padding: 1rem 1rem 2rem 1rem;
-}
-.cid-rJ2mwhVW8i .card-img {
-  padding: 0;
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-  border-top-left-radius: .25rem;
-  border-top-right-radius: .25rem;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-  overflow: hidden;
-}
-.cid-rJ2mwhVW8i .card-box {
-  border-bottom-left-radius: .25rem;
-  border-bottom-right-radius: .25rem;
-  background: #ff695c;
-  padding: 2rem;
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-}
-.cid-rJ2mwhVW8i .mbr-text {
-  color: #444444;
-}
-.cid-rJ2mwhVW8i .mbr-section-subtitle {
-  color: #8d97ad;
-}
-.cid-rJ2mwhVW8i .mbr-section-btn {
-  margin-left: 0;
-}
-@media (max-width: 767px) {
-  .cid-rJ2mwhVW8i .card-title {
-    text-align: center;
-  }
-  .cid-rJ2mwhVW8i p.mbr-text,
-  .cid-rJ2mwhVW8i p.date {
-    text-align: center;
-  }
-}
-.cid-rJ2mwhVW8i H2 {
-  color: #2bdc9d;
-}
-.cid-rJ2mwhVW8i .mbr-text,
-.cid-rJ2mwhVW8i .mbr-section-btn {
-  color: #ffffff;
+.cid-rJ6sdmVgPR .card-title,
+.cid-rJ6sdmVgPR .card-img {
+  color: #000000;
 }
 .cid-rJ2mAkdRkP {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 45px;
   background: linear-gradient(45deg, #ff695c, #ff695c);
 }
